@@ -14,25 +14,25 @@
 				
 					{
 						name = "wood_sword",
-						offset = CFrame.Angles(math.rad(0),math.rad(-100),math.rad(-90)),
+						offset = CFrame.Angles(math.rad(0),math.rad(0),math.rad(0)),
 						model = import:WaitForChild("wood"),
 					},
 					
 					{
 						name = "stone_sword",
-						offset = CFrame.Angles(math.rad(0),math.rad(-100),math.rad(-90)),
+						offset = CFrame.Angles(math.rad(0),math.rad(0),math.rad(0)),
 						model = import:WaitForChild("stone"),
 					},
 					
 					{
 						name = "iron_sword",
-						offset = CFrame.Angles(math.rad(0),math.rad(-100),math.rad(-90)),
+						offset = CFrame.Angles(math.rad(0),math.rad(0),math.rad(0)),
 						model = import:WaitForChild("iron"),
 					},
 					
 					{
 						name = "diamond_sword",
-						offset = CFrame.Angles(math.rad(0),math.rad(-100),math.rad(-90)),
+						offset = CFrame.Angles(math.rad(0),math.rad(0),math.rad(0)),
 						model = import:WaitForChild("diamond2"),
 					},
 					
